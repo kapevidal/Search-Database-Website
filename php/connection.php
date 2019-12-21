@@ -1,8 +1,8 @@
 <?php
-  $servername = "149.4.211.180";
-  $username = "peki0808";
-  $password = "23560808";
-  $dbname = "peki0808";
+  $servername = "";
+  $username = "";
+  $password = "";
+  $dbname = "p";
 
   $conn = new mysqli($servername, $username, $password, $dbname);
   $conn->set_charset("utf8");
